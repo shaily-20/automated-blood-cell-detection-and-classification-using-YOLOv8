@@ -1,0 +1,6 @@
+Image,GroundTruth_Count,Predicted_Count,Absolute_Error
+BloodImage_00038_jpg.rf.ffa23e4b5b55b523367f332af726eae8.jpg,28,23,5
+BloodImage_00044_jpg.rf.e7760375eba4bc20c5746367e2311e18.jpg,20,18,2
+BloodImage_00062_jpg.rf.1be1ca0ecdf783798fc10346baaa203e.jpg,13,20,7
+BloodImage_00090_jpg.rf.cdbf8f6ed3b93fa902a0bc991132cb40.jpg,15,22,7
+BloodImage_00099_jpg.rf.e3c42cd68359527494a53843479dff5c.jpg,18,23,5

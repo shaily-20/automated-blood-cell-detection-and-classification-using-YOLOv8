@@ -1,0 +1,6 @@
+YOLO Blood Cell Detection Training Completed
+                 Metric    Value
+0  metrics/precision(B)  0.84410
+1     metrics/recall(B)  0.91728
+2      metrics/mAP50(B)  0.91382
+3   metrics/mAP50-95(B)  0.64498
